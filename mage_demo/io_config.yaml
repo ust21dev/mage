@@ -67,11 +67,11 @@ default:
   MSSQL_PORT: 1433
   MSSQL_USER: SA
   # MySQL
-  MYSQL_DATABASE: database
-  MYSQL_HOST: host
-  MYSQL_PASSWORD: password
+  MYSQL_DATABASE: manito
+  MYSQL_HOST: 43.202.172.123
+  MYSQL_PASSWORD: manito@2024
   MYSQL_PORT: 3306
-  MYSQL_USER: root
+  MYSQL_USER: manito
   # Pinot
   PINOT_HOST: hostname
   PINOT_PASSWORD: password
